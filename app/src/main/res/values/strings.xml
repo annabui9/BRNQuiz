@@ -2,4 +2,8 @@
     <string name="app_name">BRNQuiz</string>
     <string name="welcome">Welcome to \n BRN Quiz</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="begin">Begin</string>
+    <string name="_1_point">(1 point)</string>
+    <string name="question">Question</string>
+    <string name="submit">Submit</string>
 </resources>
